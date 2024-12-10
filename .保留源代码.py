@@ -14,11 +14,10 @@ def delete_exe_files(directory):
             try:  
                 os.remove(file_path)  # 删除文件  
                 print(f"已删除: {file_path}")  
-                input("按任意键结束")
+
             except Exception as e:  
                 print(f"删除文件 {file_path} 时出错: {e}")
-                input("按任意键结束")
-
+    input("")
 if __name__ == "__main__":  
 
     target_directory = r"C:\Users\kevin\Desktop\c_learning2"

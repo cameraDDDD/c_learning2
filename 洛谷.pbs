@@ -1,0 +1,49 @@
+{
+    "current_index": 0,
+    "name": "试题集1",
+    "problems": [
+        {
+            "cases": [
+                {
+                    "expected": "5\n",
+                    "expected_output_filename": "",
+                    "input": "4\n",
+                    "input_filename": "",
+                    "name": "试题案例1"
+                }
+            ],
+            "description": "",
+            "memory_limit": 128,
+            "memory_limit_unit": 1,
+            "name": "P1255 数楼梯",
+            "time_limit": 1000,
+            "time_limit_unit": 1,
+            "url": "https://www.luogu.com.cn/problem/P1255"
+        },
+        {
+            "cases": [
+                {
+                    "expected": "Jolly\n",
+                    "expected_output_filename": "",
+                    "input": "4 1 4 2 3\n",
+                    "input_filename": "",
+                    "name": "试题案例1"
+                },
+                {
+                    "expected": "Not jolly\n",
+                    "expected_output_filename": "",
+                    "input": "5 1 4 2 -1 6\n",
+                    "input_filename": "",
+                    "name": "试题案例2"
+                }
+            ],
+            "description": "",
+            "memory_limit": 125,
+            "memory_limit_unit": 1,
+            "name": "P1152 欢乐的跳",
+            "time_limit": 1000,
+            "time_limit_unit": 1,
+            "url": "https://www.luogu.com.cn/problem/P1152"
+        }
+    ]
+}
